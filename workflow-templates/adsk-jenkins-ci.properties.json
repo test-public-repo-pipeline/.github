@@ -1,0 +1,5 @@
+{
+  "name": "Corporate Jenkins Workflow",
+  "description": "Workflow to trigger multi-branch jobs on Autodesk corporate Jenkins",
+  "iconName": "jenkins.svg"
+}
